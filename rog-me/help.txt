@@ -1,0 +1,13 @@
+Below is a list of commands that our bots will respond to. 
+
+```General:
+/ping - Best Command EU.
+/help - Shows this message.
+/joined - Shows when you joined the server.
+/role -   Shows you the list of roles.~
+---------------------------------------------
+Leveling system
+
+/points - Shows you how many points you have.
+/level - displays your level.
+```
